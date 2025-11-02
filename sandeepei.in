@@ -1,0 +1,15 @@
+<! DO TYPE<!DOCTYPE html>
+<html>
+<head>
+  <title>Sandeep Sen's Website</title>
+  <style>
+    body { background-color: #e3f2fd; font-family: Arial; text-align: center; }
+    h1 { color: #1565c0; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Sandeep Sen’s Website</h1>
+  <p>Hello! I’m Sandeep, a student who loves computers and coding.</p>
+  <a href="https://www.google.com">Visit Google</a>
+</body>
